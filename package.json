@@ -1,0 +1,24 @@
+{
+  "name": "gql-babel-create",
+  "version": "1.0.0",
+  "description": "blah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "Matt McCarthy",
+  "license": "ISC",
+  "devDependencies": {
+    "rimraf": "^3.0.0"
+  },
+  "bin": {
+    "gql-babel-create": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.3"
+  }
+}
